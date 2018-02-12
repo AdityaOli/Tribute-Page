@@ -1,3 +1,3 @@
 # Tribute-Page
 
-https://adityaoli.github.io/Tribute-Page/
+https://codepen.io/eradityaoli/full/BzEWEB/
